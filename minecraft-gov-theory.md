@@ -29,7 +29,7 @@ Self-dissolving governance system designed to bootstrap cooperative infrastructu
 
 ### Bounty Flow
 ```
-Government Posts → Reverse Auction → Lowest Bidder Wins → 
+Government Posts → +1 Time Bank Credit per day no completed → Lowest Bidder Wins → 
 Block Pattern Verification → Payment + Time Credit → 
 System Decay as Infrastructure Completes
 ```
