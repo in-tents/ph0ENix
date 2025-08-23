@@ -10,7 +10,7 @@ Self-dissolving governance system designed to bootstrap cooperative infrastructu
 - Players accumulate "cooperation debt" through bounty submissions
 - Must complete others' bounties before posting new ones
 - Time debt convertible to resources at algorithmic rates
-- **Reverse auction mechanism**: Bounties go to lowest bidder, not highest waiter
+- **Reverse auction mechanism**: Bounties are first come first serve, waiting means someone else can grab it
 - Pre-made tutorials with deterministic block patterns enable automated verification
 
 ### Phase 2: Resource Economy Transition
@@ -29,15 +29,15 @@ Self-dissolving governance system designed to bootstrap cooperative infrastructu
 
 ### Bounty Flow
 ```
-Government Posts → +1 Time Bank Credit per day no completed → Lowest Bidder Wins → 
+Government Posts → +1 Time Bank Credit per day no completed → First to claim receives reward  after completion → 
 Block Pattern Verification → Payment + Time Credit → 
 System Decay as Infrastructure Completes
 ```
 
 ### Anti-Gaming Features
-- Daily inflation creates social pressure (unclaimed bounties = public failure)
-- Reverse auction prevents speculation cartels
-- Deterministic verification (block patterns) prevents quality disputes
+- Daily inflation creates cooperative competition, whoever does the work is willing to recieve the payment offered
+- Publically claimable bounties prevents speculation cartels
+- Explicit, predetermined bounty specifications (block patterns, human and/or machine verification) prevent quality disputes
 - Tutorial standardization removes subjective judgment
 
 ## Expected Emergent Behaviors
@@ -53,14 +53,12 @@ System Decay as Infrastructure Completes
 - Resource pooling despite system competition
 
 ### Post-Government Phase
-- Natural transition to gift economy or anarchist organization
-- Infrastructure maintenance through social norms, not bounties
-- System successfully obsoletes itself
+- ph0ENix is reduced to ashes, whatever emerges is up to the players
 
 ## Key Design Principles
 1. **Temporary by design** - success means dissolution
-2. **Competition creates cooperation** - underbidding forces interaction
-3. **Shameful inflation** - rising prices broadcast collective failure
+2. **Competition creates cooperation** - anyone (who doesn't owe the timebank) can claim bounties at any value at any time
+3. **Shameful inflation** - rising bounty prices broadcast collective failure
 4. **Exit over voice** - players can leave rather than reform
 5. **Tutorial determinism** - removes governance from aesthetic decisions
 
@@ -69,7 +67,8 @@ System Decay as Infrastructure Completes
 - Zero survival pressure
 - Low exit costs
 - Players value time credits initially
-- Basic infrastructure has finite endpoint
+- Basic governance infrastructure has finite endpoint
+- Players continue to utilize decentralized resource management systems
 
 ## Success Metrics
 - Time to infrastructure completion
@@ -100,7 +99,7 @@ System Decay as Infrastructure Completes
 - Automated bounty inflation algorithm
 
 ### Social Requirements
-- Critical mass of initial players
+- Ideally more than 1 player
 - Shared understanding of temporary nature
 - Agreement on "good enough" infrastructure endpoints
 - Cultural acceptance of standardized aesthetics for public works
